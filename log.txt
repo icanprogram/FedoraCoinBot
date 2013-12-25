@@ -1,0 +1,45 @@
+:hubbard.freenode.net NOTICE * :*** Looking up your hostname...
+:hubbard.freenode.net NOTICE * :*** Checking Ident
+:hubbard.freenode.net NOTICE * :*** Found your hostname
+:hubbard.freenode.net NOTICE * :*** No Ident response
+:hubbard.freenode.net 001 FedoraMon :Welcome to the freenode Internet Relay Chat Network FedoraMon
+:hubbard.freenode.net 002 FedoraMon :Your host is hubbard.freenode.net[128.237.157.136/6667], running version ircd-seven-1.1.3
+:hubbard.freenode.net 003 FedoraMon :This server was created Mon Dec 31 2012 at 16:39:09 EST
+:hubbard.freenode.net 004 FedoraMon hubbard.freenode.net ircd-seven-1.1.3 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+:hubbard.freenode.net 005 FedoraMon CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+:hubbard.freenode.net 005 FedoraMon CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: :are supported by this server
+:hubbard.freenode.net 005 FedoraMon EXTBAN=$,arxz WHOX CLIENTVER=3.0 SAFELIST ELIST=CTU :are supported by this server
+:hubbard.freenode.net 251 FedoraMon :There are 208 users and 74408 invisible on 27 servers
+:hubbard.freenode.net 252 FedoraMon 29 :IRC Operators online
+:hubbard.freenode.net 253 FedoraMon 16 :unknown connection(s)
+:hubbard.freenode.net 254 FedoraMon 53346 :channels formed
+:hubbard.freenode.net 255 FedoraMon :I have 4994 clients and 1 servers
+:hubbard.freenode.net 265 FedoraMon 4994 10131 :Current local users 4994, max 10131
+:hubbard.freenode.net 266 FedoraMon 74616 98891 :Current global users 74616, max 98891
+:hubbard.freenode.net 250 FedoraMon :Highest connection count: 10132 (10131 clients) (998953 connections received)
+:hubbard.freenode.net 375 FedoraMon :- hubbard.freenode.net Message of the Day - 
+:hubbard.freenode.net 372 FedoraMon :- Massive thanks to Carnegie Mellon University (http://www.cmu.edu) and 
+:hubbard.freenode.net 372 FedoraMon :- the CMU Computer Club for sponsoring this server!
+:hubbard.freenode.net 372 FedoraMon :-  
+:hubbard.freenode.net 372 FedoraMon :- Hubbard, Lafayette Ronald [1911 - 1986]. Was an american Sci-Fi writer, 
+:hubbard.freenode.net 372 FedoraMon :- perhaps more famed for devising Dianetics and Scientology.
+:hubbard.freenode.net 372 FedoraMon :- Welcome to freenode - supporting the free and open source
+:hubbard.freenode.net 372 FedoraMon :- software communities since 1998.
+:hubbard.freenode.net 372 FedoraMon :-  
+:hubbard.freenode.net 372 FedoraMon :- By connecting to freenode you indicate that you have read and
+:hubbard.freenode.net 372 FedoraMon :- agree to adhere to our policies and procedures as per the
+:hubbard.freenode.net 372 FedoraMon :- website (http://freenode.net/).
+:hubbard.freenode.net 372 FedoraMon :-  
+:hubbard.freenode.net 372 FedoraMon :- We would like to remind you that unauthorised public logging
+:hubbard.freenode.net 372 FedoraMon :- of channels on the network is prohibited. Public channel
+:hubbard.freenode.net 372 FedoraMon :- logging should only take place where the channel owner(s) has
+:hubbard.freenode.net 372 FedoraMon :- requested this and users of the channel are all made aware
+:hubbard.freenode.net 372 FedoraMon :- (if you are publically logging your channel, you may wish to 
+:hubbard.freenode.net 372 FedoraMon :- keep a notice in the topic and perhaps as an on-join message).
+:hubbard.freenode.net 372 FedoraMon :-  
+:hubbard.freenode.net 372 FedoraMon :- freenode runs an open proxy scanner. For details on freenode 
+:hubbard.freenode.net 372 FedoraMon :- network policy, please take a look at our policy page 
+:hubbard.freenode.net 372 FedoraMon :- (http://freenode.net/policy.shtml).  Your use of the network
+:hubbard.freenode.net 372 FedoraMon :- indicates your acceptance of this policy.
+:hubbard.freenode.net 372 FedoraMon :-  
+:hubbard.freenode.net 372 Fedo
