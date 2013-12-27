@@ -30,6 +30,11 @@ def printdifficulty(s):
 	diff = requests.get(url=url).content
 	connection.send_channel(s, diff)
 
+def printaddressbalance(s,address):
+	url = ("http://fedorachain.info/chain/Fedora/q/addressbalance/%s" % (address.rstrip()))
+	balance = requests.get(url=url).content
+	connection.send_channel(s, balance)
+
 def printexchanges(s):
 	connection.send_channel(s, "You can't put a price on euphoria.")
 
@@ -44,8 +49,8 @@ def list(s):
 	connection.send_channel(s, "\t!pools: Shows currently active pools (maintained by Cephon)")
 	connection.send_channel(s, "\t!getblockcount: Shows the current block number")
 	connection.send_channel(s, "\t!getdifficulty: Shows the current difficulty")
+	connection.send_channel(s, "\t!addressbalance <address> Gets the current (confirmed) balance of an address")
 	connection.send_channel(s, "\t!exchanges: Shows the current worth of 1 TIP in USD")
 	connection.send_channel(s, "\t!settopic: Tell everyone in the channel what's on your mind")
 	connection.send_channel(s, "\t!credits: Find out who made this bot!")
 	connection.send_channel(s, "\t!tip: Show the address to tip us at!")
-	connection.send_channel(s, "\tExtra Commands can be found at [pastebin link]")

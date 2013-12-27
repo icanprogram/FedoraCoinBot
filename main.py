@@ -32,6 +32,8 @@ def main():
 			functions.printpools(s, user)
 		if text.find('!getdifficulty') !=-1:
 			functions.printdifficulty(s)
+		if text.find('!addressbalance') !=-1:
+			functions.printaddressbalance(s, text[text.find('!addressbalance')+16:])
 		if text.find('price') !=-1:
 			functions.printexchanges(s)
 		if text.find('!credits') !=-1:
