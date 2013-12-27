@@ -30,14 +30,16 @@ def main():
 			functions.printnetworkhash(s)
 		if text.find('!pools') !=-1:
 			functions.printpools(s, user)
-		if text.find('!getblockcount') !=-1:
-			functions.printblockcount(s)
 		if text.find('!getdifficulty') !=-1:
 			functions.printdifficulty(s)
 		if text.find('price') !=-1:
 			functions.printexchanges(s)
+		if text.find('!credits') !=-1:
+			functions.credits(s)
 		if text.find('!exchanges') !=-1:
 			functions.printexchanges(s)
+		if text.find('!tip') !=-1:
+			functions.tips(s)
 		if text.find('!settopic') !=-1:
 			topichandler.setrandom(s, user, text[text.find('!settopic')+10:])
 		if text.find('!setversion') !=-1:
